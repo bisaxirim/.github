@@ -1,1 +1,1 @@
-<h1>Hello there 👋🏻</h1>
+<h1>Hello there, this is about us 👋🏻</h1>
