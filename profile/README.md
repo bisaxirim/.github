@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Comming Soon Something Surprising
+Coming Soon Something Surprising
